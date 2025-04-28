@@ -3,8 +3,8 @@
 Contributors: everestthemes
 Requires at least: 5.0
 Requires PHP: 7.0
-Tested up to: 6.5
-Stable tag: 1.1.8
+Tested up to: 6.8
+Stable tag: 1.1.10
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: post-formats, block-styles, wide-blocks, custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready, one-column, two-columns, blog, right-sidebar, theme-options, footer-widgets, left-sidebar, grid-layout, custom-header
@@ -85,6 +85,13 @@ gucherry-blog includes support for contact form7
 
 
 == Changelog ==
+
+= 1.1.10 - April 28, 2025 =
+* version bump
+
+= 1.1.9 - April 28, 2025 =
+* Compatibility check with WordPress 6.8
+* Compatibility check with PHP > 8
 
 = 1.1.8 - April 04, 2024 =
 * Compatibility check with WordPress 6.5
